@@ -1,0 +1,22 @@
+2025-11-11 03:55:35 - INFO - ======================================================================
+2025-11-11 03:55:35 - INFO - STARTING DAILY QUOTE JOB
+2025-11-11 03:55:35 - INFO - ======================================================================
+2025-11-11 03:55:35 - INFO - Step 1: Fetching quote from ZenQuotes API...
+2025-11-11 03:55:37 - INFO - Step 2: Retrieving active users from database...
+2025-11-11 03:55:37 - INFO - Step 3: Sending emails to users...
+2025-11-11 03:55:37 - INFO - ----------------------------------------------------------------------
+2025-11-11 03:55:37 - INFO - [1/4] Processing: Joshua Akintayo (akinspajo@gmail.com)
+2025-11-11 03:56:45 - INFO - [2/4] Processing: Joshua Akintayo (joshuaakintayo21@gmail.com)
+2025-11-11 03:57:52 - INFO - [3/4] Processing: Awwal Abioye (awwalabioye20@gmail.com)
+2025-11-11 03:59:00 - INFO - [4/4] Processing: Zee Legacy (zeestakes@gmail.com)
+2025-11-11 04:00:08 - INFO - ======================================================================
+2025-11-11 04:00:08 - INFO - JOB COMPLETED - SUMMARY
+2025-11-11 04:00:08 - INFO - ======================================================================
+2025-11-11 04:00:08 - INFO - Total users processed: 4
+2025-11-11 04:00:08 - INFO - Emails sent successfully: 0
+2025-11-11 04:00:08 - INFO - Emails failed: 4
+2025-11-11 04:00:08 - WARNING - Failed recipients: akinspajo@gmail.com, joshuaakintayo21@gmail.com, awwalabioye20@gmail.com, zeestakes@gmail.com
+2025-11-11 04:00:08 - INFO - Success rate: 0.0%
+2025-11-11 04:00:08 - INFO - Duration: 273.07 seconds
+2025-11-11 04:00:08 - INFO - Quote of the day: "A hopeless man is a very desperate and dangerous man, almost a dead man." - Robert F. Kennedy
+2025-11-11 04:00:08 - INFO - ======================================================================

@@ -1,0 +1,98 @@
+2025-11-12 07:54:58 - INFO - ======================================================================
+2025-11-12 07:54:58 - INFO - STARTING DAILY QUOTE JOB
+2025-11-12 07:54:58 - INFO - ======================================================================
+2025-11-12 07:54:58 - INFO - Step 1: Fetching quote from ZenQuotes API...
+2025-11-12 07:55:00 - INFO - Step 2: Retrieving active users from database...
+2025-11-12 07:55:01 - INFO - Step 3: Sending emails to users...
+2025-11-12 07:55:01 - INFO - ----------------------------------------------------------------------
+2025-11-12 07:55:01 - INFO - [1/4] Processing: Joshua Akintayo (akinspajo@gmail.com)
+2025-11-12 07:56:08 - INFO - [2/4] Processing: Joshua Akintayo (joshuaakintayo21@gmail.com)
+2025-11-12 07:57:16 - INFO - [3/4] Processing: Awwal Abioye (awwalabioye20@gmail.com)
+2025-11-12 07:58:25 - INFO - [4/4] Processing: Zee Legacy (zeestakes@gmail.com)
+2025-11-12 07:59:32 - INFO - ======================================================================
+2025-11-12 07:59:32 - INFO - JOB COMPLETED - SUMMARY
+2025-11-12 07:59:32 - INFO - ======================================================================
+2025-11-12 07:59:32 - INFO - Total users processed: 4
+2025-11-12 07:59:32 - INFO - Emails sent successfully: 0
+2025-11-12 07:59:32 - INFO - Emails failed: 4
+2025-11-12 07:59:32 - WARNING - Failed recipients: akinspajo@gmail.com, joshuaakintayo21@gmail.com, awwalabioye20@gmail.com, zeestakes@gmail.com
+2025-11-12 07:59:32 - INFO - Success rate: 0.0%
+2025-11-12 07:59:32 - INFO - Duration: 274.26 seconds
+2025-11-12 07:59:32 - INFO - Quote of the day: "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." - Kahlil Gibran
+2025-11-12 07:59:32 - INFO - ======================================================================
+2025-11-12 09:11:44 - INFO - ======================================================================
+2025-11-12 09:11:44 - INFO - STARTING DAILY QUOTE JOB
+2025-11-12 09:11:44 - INFO - ======================================================================
+2025-11-12 09:11:44 - INFO - Step 1: Fetching quote from ZenQuotes API...
+2025-11-12 09:11:46 - INFO - [SUCCESS] Quote fetched: "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." - Kahlil Gibran
+2025-11-12 09:11:46 - INFO - Step 2: Retrieving active users from database...
+2025-11-12 09:11:46 - INFO - [SUCCESS] Found 4 active daily subscribers
+2025-11-12 09:11:46 - INFO - Step 3: Sending emails to users...
+2025-11-12 09:11:46 - INFO - ----------------------------------------------------------------------
+2025-11-12 09:11:46 - INFO - [1/4] Processing: Joshua Akintayo (akinspajo@gmail.com)
+2025-11-12 09:12:56 - INFO -   [SUCCESS] Email sent and database updated for akinspajo@gmail.com
+2025-11-12 09:12:56 - INFO - [2/4] Processing: Joshua Akintayo (joshuaakintayo21@gmail.com)
+2025-11-12 09:14:06 - INFO -   [SUCCESS] Email sent and database updated for joshuaakintayo21@gmail.com
+2025-11-12 09:14:06 - INFO - [3/4] Processing: Awwal Abioye (awwalabioye20@gmail.com)
+2025-11-12 09:15:16 - INFO -   [SUCCESS] Email sent and database updated for awwalabioye20@gmail.com
+2025-11-12 09:15:16 - INFO - [4/4] Processing: Zee Legacy (zeestakes@gmail.com)
+2025-11-12 09:16:29 - INFO -   [SUCCESS] Email sent and database updated for zeestakes@gmail.com
+2025-11-12 09:16:29 - INFO - ======================================================================
+2025-11-12 09:16:29 - INFO - JOB COMPLETED - SUMMARY
+2025-11-12 09:16:29 - INFO - ======================================================================
+2025-11-12 09:16:29 - INFO - Total users processed: 4
+2025-11-12 09:16:30 - INFO - Emails sent successfully: 4
+2025-11-12 09:16:30 - INFO - Emails failed: 0
+2025-11-12 09:16:30 - INFO - Success rate: 100.0%
+2025-11-12 09:16:30 - INFO - Duration: 285.47 seconds
+2025-11-12 09:16:30 - INFO - Quote of the day: "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." - Kahlil Gibran
+2025-11-12 09:16:30 - INFO - ======================================================================
+2025-11-12 15:48:16 - INFO - ======================================================================
+2025-11-12 15:48:16 - INFO - STARTING DAILY QUOTE JOB
+2025-11-12 15:48:16 - INFO - ======================================================================
+2025-11-12 15:48:16 - INFO - Step 1: Fetching quote from ZenQuotes API...
+2025-11-12 15:48:19 - INFO - Step 2: Retrieving active users from database...
+2025-11-12 15:48:19 - INFO - Step 3: Sending emails to users...
+2025-11-12 15:48:19 - INFO - ----------------------------------------------------------------------
+2025-11-12 15:48:19 - INFO - [1/4] Processing: Joshua Akintayo (akinspajo@gmail.com)
+2025-11-12 15:49:28 - INFO - [2/4] Processing: Joshua Akintayo (joshuaakintayo21@gmail.com)
+2025-11-12 15:50:36 - INFO - [3/4] Processing: Awwal Abioye (awwalabioye20@gmail.com)
+2025-11-12 15:51:43 - INFO - [4/4] Processing: Zee Legacy (zeestakes@gmail.com)
+2025-11-12 15:52:50 - INFO - ======================================================================
+2025-11-12 15:52:50 - INFO - JOB COMPLETED - SUMMARY
+2025-11-12 15:52:50 - INFO - ======================================================================
+2025-11-12 15:52:50 - INFO - Total users processed: 4
+2025-11-12 15:52:50 - INFO - Emails sent successfully: 0
+2025-11-12 15:52:50 - INFO - Emails failed: 4
+2025-11-12 15:52:50 - WARNING - Failed recipients: akinspajo@gmail.com, joshuaakintayo21@gmail.com, awwalabioye20@gmail.com, zeestakes@gmail.com
+2025-11-12 15:52:50 - INFO - Success rate: 0.0%
+2025-11-12 15:52:50 - INFO - Duration: 273.55 seconds
+2025-11-12 15:52:50 - INFO - Quote of the day: "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." - Kahlil Gibran
+2025-11-12 15:52:50 - INFO - ======================================================================
+2025-11-12 16:19:03 - INFO - ======================================================================
+2025-11-12 16:19:03 - INFO - STARTING DAILY QUOTE JOB
+2025-11-12 16:19:03 - INFO - ======================================================================
+2025-11-12 16:19:03 - INFO - Step 1: Fetching quote from ZenQuotes API...
+2025-11-12 16:19:06 - INFO - [SUCCESS] Quote fetched: "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." - Kahlil Gibran
+2025-11-12 16:19:06 - INFO - Step 2: Retrieving active users from database...
+2025-11-12 16:19:06 - INFO - [SUCCESS] Found 4 active daily subscribers
+2025-11-12 16:19:06 - INFO - Step 3: Sending emails to users...
+2025-11-12 16:19:06 - INFO - ----------------------------------------------------------------------
+2025-11-12 16:19:06 - INFO - [1/4] Processing: Joshua Akintayo (akinspajo@gmail.com)
+2025-11-12 16:19:08 - INFO -   [SUCCESS] Email sent to akinspajo@gmail.com
+2025-11-12 16:19:08 - INFO - [2/4] Processing: Joshua Akintayo (joshuaakintayo21@gmail.com)
+2025-11-12 16:19:10 - INFO -   [SUCCESS] Email sent to joshuaakintayo21@gmail.com
+2025-11-12 16:19:10 - INFO - [3/4] Processing: Awwal Abioye (awwalabioye20@gmail.com)
+2025-11-12 16:19:12 - INFO -   [SUCCESS] Email sent to awwalabioye20@gmail.com
+2025-11-12 16:19:12 - INFO - [4/4] Processing: Zee Legacy (zeestakes@gmail.com)
+2025-11-12 16:19:14 - INFO -   [SUCCESS] Email sent to zeestakes@gmail.com
+2025-11-12 16:19:14 - INFO - ======================================================================
+2025-11-12 16:19:14 - INFO - JOB COMPLETED - SUMMARY
+2025-11-12 16:19:14 - INFO - ======================================================================
+2025-11-12 16:19:14 - INFO - Total users processed: 4
+2025-11-12 16:19:14 - INFO - Emails sent successfully: 4
+2025-11-12 16:19:14 - INFO - Emails failed: 0
+2025-11-12 16:19:14 - INFO - Success rate: 100.0%
+2025-11-12 16:19:14 - INFO - Duration: 10.79 seconds
+2025-11-12 16:19:14 - INFO - Quote of the day: "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." - Kahlil Gibran
+2025-11-12 16:19:14 - INFO - ======================================================================
