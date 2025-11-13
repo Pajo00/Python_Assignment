@@ -48,7 +48,7 @@ Have a wonderful day!
             message['From'] = EMAIL_CONFIG['sender_email']
             message['To'] = user['email']
             
-            # Connect using SSL (port 465) - this is what works for you
+            
             with smtplib.SMTP_SSL('smtp.gmail.com', 465, timeout=30) as server:
                 server.login(
                     EMAIL_CONFIG['sender_email'],
@@ -78,4 +78,5 @@ Have a wonderful day!
                 print(f"    Failed after {max_retries} attempts")
                 return False
     
+
     return False
